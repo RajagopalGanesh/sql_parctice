@@ -16,7 +16,9 @@ INSERT INTO player (name, age, score) VALUES
 ('Ramu', 25, 85),
 ('Balaji', 26, 76),
 ('Gopi', 27, 96),
-('Ganesh', 28, 55);
+('Ganesh', 28, 55),
+('nithish', 24, 95);
+
 
 SELECT * FROM player;
 '''
